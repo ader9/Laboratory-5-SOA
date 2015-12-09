@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars:mustachejs:0.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars/mustachejs/0.8.2/8c5a5fe87dae9642f4eb5c128b42e9e251eac0e7/mustachejs-0.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars/mustachejs/0.8.2/e1d4224214340cd02fecaf12ae01cb49581a7de0/mustachejs-0.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
